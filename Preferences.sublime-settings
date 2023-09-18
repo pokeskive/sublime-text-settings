@@ -1,0 +1,23 @@
+{
+		"show_definitions": false,
+		"font_face": "Consolas",
+		"fold_buttons": false,
+		"font_size": 13,
+		"word_wrap": "true",
+		"highlight_line": true,
+		"indent_guide_options":
+		[
+			"draw_normal",
+			"draw_active"
+	],
+		"line_padding_bottom": 3,
+		"line_padding_top": 3,
+		"margin": 2,
+		"tab_size": 2,
+	"theme": "Adaptive.sublime-theme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"color_scheme": "Packages/Enki Theme/scheme/Enki-Tokyo-Night.tmTheme",
+}

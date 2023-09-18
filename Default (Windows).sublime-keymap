@@ -1,0 +1,4 @@
+[
+	{ "keys": ["alt+shift+f"], "command": "reindent" },
+	{ "keys": ["ctrl+e"], "command": "toggle_side_bar" },
+]
